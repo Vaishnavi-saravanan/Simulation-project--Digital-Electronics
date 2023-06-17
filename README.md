@@ -38,3 +38,4 @@ nor (f,g);
 endmodule
 ```
 # REFERENCE
+https://github.com/Vaishnavi-saravanan/Simulation-project--Digital-Electronics.git
